@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'CyrillicGoth';
+    src: url('ВСТАВЬТЕ_СЮДА_ВАШУ_RAW_ССЫЛКУ_НА_ШРИФТ_С_GITHUB.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Применяем ко всем элементам виджета */
+* {
+    font-family: 'CyrillicGoth', sans-serif !important;
+}
